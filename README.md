@@ -12,7 +12,7 @@
   </p>
   <p>
     <a href="https://github.com/zombiesis" target="_blank">
-      <img src="https://img.shields.io/badge/Based_in-India_%F0%9F%87%AE%F0%9F%87%B3-0f0c29?style=flat-square" alt="London" />
+      <img src="https://img.shields.io/badge/Based_in-London_%F0%9F%87%AE%F0%9F%87%B3-0f0c29?style=flat-square" alt="London" />
     </a>
     <a href="https://github.com/zombiesis" target="_blank">
       <img src="https://img.shields.io/badge/Alias-kv4y-302b63?style=flat-square" alt="Alias" />
